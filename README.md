@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Thanks for stopping by 👋
+- 🔭 I’m currently working on Polkadot and Elixir
+- ⚡ Fun fact: I once threw out the first pitch at a Detroit Tiger game
+- 👯 I’m looking to collaborate on EOSIO, Parachains, Parathreads, bridges
+- 🤔 I’m looking for help with finding Elixir people to work with.  I can pay.  Hit me up.
 <!--
 **GaltMidas/galtmidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
